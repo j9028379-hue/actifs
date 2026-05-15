@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pim-paris.com/sitemap.xml

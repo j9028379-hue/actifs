@@ -1,0 +1,22 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/rer-a"
+  to = "/rer-a.html"
+  status = 200
+
+[[redirects]]
+  from = "/ligne-13"
+  to = "/ligne-13.html"
+  status = 200
+
+[[redirects]]
+  from = "/open-space"
+  to = "/open-space.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
